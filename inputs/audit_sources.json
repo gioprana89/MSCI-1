@@ -1,0 +1,17 @@
+{
+  "msci_retained_candidates": ["EXCL", "MDKA", "INCO", "PWON", "ENRG", "MEDC"],
+  "hsc_candidates": {"AGII": 8, "BELI": 45, "CASS": 85, "CMNP": 96, "GMFI": 148, "MLPT": 237, "SAMF": 308},
+  "hsc_affected": {"MTEL": 245},
+  "issuer_events": {
+    "MEDC": {"note": "Interim cash dividend: regular-market ex-date 11 November; cash-market ex-date 13 November.", "url": "https://web.ksei.co.id/Announcement/Files/MEDC_DIV_20261112_ID.pdf"},
+    "WIRG": {"note": "IDX-filed annual meeting results disclosed on 12 November at 12:07 WIB, as indexed by Jejak Saham.", "url": "https://jejaksaham.id/pengumuman?k=rups&t=WIRG"}
+  },
+  "same_group_pairs": [["BRPT", "TPIA"], ["RAJA", "RATU"]],
+  "group_sources": {
+    "BRPT_TPIA": "https://chandra-asri.com/en/investor/stocks-and-bonds",
+    "RAJA_RATU": "https://cms.raja.co.id/uploads/Rukun_Raharja_AR_2025_68113940cb.pdf"
+  },
+  "msci_source": "https://market.bisnis.com/read/20261112/7/2020860/ini-daftar-35-saham-ri-yang-tersisa-di-msci-usai-rebalancing-november-2026",
+  "hsc_source": "https://finance.detik.com/bursa-dan-valas/d-8749154/daftar-lengkap-383-saham-hsc-yang-didepak-dari-perhitungan-ihsg",
+  "excl_source": "https://web.ksei.co.id/services/registered-securities/shares/lc/EXCL?setLocale=id-ID"
+}

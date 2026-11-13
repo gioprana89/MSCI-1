@@ -1,0 +1,11 @@
+{
+  "stock_sha256": "414d0c2be8edcbaa770da6b5db2d775d7807ae1d003f75009607c207aa9b63fc",
+  "ihsg_sha256": "022ee4793b1577a0f8a44284875b990efe36f4409def8c37dafba896e2397eec",
+  "audit_sources_sha256": "b0554a644f21c24dca7592793c50c9fb442369a5e28fa5acd17a734043393300",
+  "event_date": "2026-11-12",
+  "sample_cutoff": "2026-11-13",
+  "n_rows": 147044,
+  "status": "post-pilot exploratory",
+  "msci_controls_source": "https://market.bisnis.com/read/20261112/7/2020860/ini-daftar-35-saham-ri-yang-tersisa-di-msci-usai-rebalancing-november-2026",
+  "hsc_source": "https://finance.detik.com/bursa-dan-valas/d-8749154/daftar-lengkap-383-saham-hsc-yang-didepak-dari-perhitungan-ihsg"
+}

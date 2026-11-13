@@ -1,0 +1,41 @@
+ticker,role,matched_to,msci_nov_status,msci_weight_change,hsc_list_row,identified_group_links,issuer_disclosure_check,issuer_event,issuer_event_source,event_days,zero_volume_days,reference_change_days,shares_change_days,history_days,history_positive_volume_fraction
+AGII,candidate,AVIA,not_in_reported_standard_small_cap_list,unverified,8,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+AVIA,affected,,affected,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+BELI,candidate,EMTK,not_in_reported_standard_small_cap_list,unverified,45,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+BKSL,candidate,CTRA,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+BRMS,affected,,affected,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+BRPT,affected,,affected,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+BSDE,candidate,CTRA,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+BUKA,candidate,EMTK WIFI,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+CASS,candidate,JSMR,not_in_reported_standard_small_cap_list,unverified,85,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+CBDK,candidate,CTRA,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+CMNP,candidate,JSMR,not_in_reported_standard_small_cap_list,unverified,96,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+CTRA,affected,,affected,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+CYBR,candidate,EMTK WIFI,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+EMAS,candidate,BRMS BRPT,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+EMTK,affected,,affected,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+ENRG,candidate,RAJA,reported_retained,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+ESSA,candidate,BRPT,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+EXCL,candidate,MTEL,reported_retained,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+GMFI,candidate,JSMR,not_in_reported_standard_small_cap_list,unverified,148,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+GOTO,candidate,EMTK,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+INCO,candidate,BRMS BRPT,reported_retained,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+IPCC,candidate,JSMR,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+IRSX,candidate,WIFI,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+ISAT,candidate,MTEL,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+JSMR,affected,,affected,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+MDKA,candidate,BRMS BRPT,reported_retained,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+MEDC,candidate,RAJA,reported_retained,unverified,,,partial_public_source_screen,Interim cash dividend: regular-market ex-date 11 November; cash-market ex-date 13 November.,https://web.ksei.co.id/Announcement/Files/MEDC_DIV_20261112_ID.pdf,3,0,0,0,120,1.0000000000
+MLPT,candidate,EMTK,not_in_reported_standard_small_cap_list,unverified,237,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+MTEL,affected,,affected,unverified,245,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+PGJO,candidate,WIFI,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+PWON,candidate,CTRA,reported_retained,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+RAJA,affected,,affected,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+RATU,candidate,RAJA,not_in_reported_standard_small_cap_list,unverified,,RAJA,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+SAMF,candidate,AVIA,not_in_reported_standard_small_cap_list,unverified,308,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+SOCI,candidate,RAJA,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+TOWR,candidate,MTEL,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+TPIA,candidate,BRPT,not_in_reported_standard_small_cap_list,unverified,,BRPT,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+UNIC,candidate,AVIA,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+WIFI,affected,,affected,unverified,,,partial_public_source_screen,,,3,0,0,0,120,1.0000000000
+WIRG,candidate,WIFI,not_in_reported_standard_small_cap_list,unverified,,,partial_public_source_screen,"IDX-filed annual meeting results disclosed on 12 November at 12:07 WIB, as indexed by Jejak Saham.",https://jejaksaham.id/pengumuman?k=rups&t=WIRG,3,0,0,0,120,1.0000000000

@@ -1,0 +1,244 @@
+date,period,metric,training_days,estimate,variant,ticker,n_controls,controls
+2026-11-11,event,abnormal_return_pp,120,-3.4108105825,screened,BRPT,2,ESSA EMAS
+2026-11-11,event,abnormal_turnover_bp,120,19.6433057068,screened,BRPT,2,ESSA EMAS
+2026-11-11,event,net_foreign_deviation_bp,120,-6.7250879692,screened,BRPT,2,ESSA EMAS
+2026-11-12,event,abnormal_return_pp,120,-5.9083752432,screened,BRPT,2,ESSA EMAS
+2026-11-12,event,abnormal_turnover_bp,120,36.3068091237,screened,BRPT,2,ESSA EMAS
+2026-11-12,event,net_foreign_deviation_bp,120,-6.6226883447,screened,BRPT,2,ESSA EMAS
+2026-11-13,event,abnormal_return_pp,120,-1.0434992209,screened,BRPT,2,ESSA EMAS
+2026-11-13,event,abnormal_turnover_bp,120,9.8798977670,screened,BRPT,2,ESSA EMAS
+2026-11-13,event,net_foreign_deviation_bp,120,-23.8815257022,screened,BRPT,2,ESSA EMAS
+2026-11-11,event,abnormal_return_pp,120,2.2705239079,screened,BRMS,1,EMAS
+2026-11-11,event,abnormal_turnover_bp,120,21.4651192951,screened,BRMS,1,EMAS
+2026-11-11,event,net_foreign_deviation_bp,120,4.0681969628,screened,BRMS,1,EMAS
+2026-11-12,event,abnormal_return_pp,120,-1.3546963126,screened,BRMS,1,EMAS
+2026-11-12,event,abnormal_turnover_bp,120,51.7029534751,screened,BRMS,1,EMAS
+2026-11-12,event,net_foreign_deviation_bp,120,-9.1104971954,screened,BRMS,1,EMAS
+2026-11-13,event,abnormal_return_pp,120,13.5309096899,screened,BRMS,1,EMAS
+2026-11-13,event,abnormal_turnover_bp,120,85.2653359381,screened,BRMS,1,EMAS
+2026-11-13,event,net_foreign_deviation_bp,120,8.1144485541,screened,BRMS,1,EMAS
+2026-11-11,event,abnormal_return_pp,120,-2.0531212517,screened,AVIA,1,UNIC
+2026-11-11,event,abnormal_turnover_bp,120,11.8997721122,screened,AVIA,1,UNIC
+2026-11-11,event,net_foreign_deviation_bp,120,-0.0008735383,screened,AVIA,1,UNIC
+2026-11-12,event,abnormal_return_pp,120,-0.0972063776,screened,AVIA,1,UNIC
+2026-11-12,event,abnormal_turnover_bp,120,2.1545661196,screened,AVIA,1,UNIC
+2026-11-12,event,net_foreign_deviation_bp,120,0.6853724856,screened,AVIA,1,UNIC
+2026-11-13,event,abnormal_return_pp,120,3.6669280890,screened,AVIA,1,UNIC
+2026-11-13,event,abnormal_turnover_bp,120,1.4792192399,screened,AVIA,1,UNIC
+2026-11-13,event,net_foreign_deviation_bp,120,0.5685576566,screened,AVIA,1,UNIC
+2026-11-11,event,abnormal_return_pp,120,0.3957431210,screened,CTRA,3,BSDE BKSL CBDK
+2026-11-11,event,abnormal_turnover_bp,120,-0.5695622784,screened,CTRA,3,BSDE BKSL CBDK
+2026-11-11,event,net_foreign_deviation_bp,120,1.2293583236,screened,CTRA,3,BSDE BKSL CBDK
+2026-11-12,event,abnormal_return_pp,120,-2.3398061000,screened,CTRA,3,BSDE BKSL CBDK
+2026-11-12,event,abnormal_turnover_bp,120,-3.1867618979,screened,CTRA,3,BSDE BKSL CBDK
+2026-11-12,event,net_foreign_deviation_bp,120,-2.0044631210,screened,CTRA,3,BSDE BKSL CBDK
+2026-11-13,event,abnormal_return_pp,120,1.1693203109,screened,CTRA,3,BSDE BKSL CBDK
+2026-11-13,event,abnormal_turnover_bp,120,5.4008484791,screened,CTRA,3,BSDE BKSL CBDK
+2026-11-13,event,net_foreign_deviation_bp,120,5.4873854125,screened,CTRA,3,BSDE BKSL CBDK
+2026-11-11,event,abnormal_return_pp,120,-2.4686526226,screened,EMTK,3,BUKA GOTO CYBR
+2026-11-11,event,abnormal_turnover_bp,120,-21.6613724961,screened,EMTK,3,BUKA GOTO CYBR
+2026-11-11,event,net_foreign_deviation_bp,120,-0.4133570220,screened,EMTK,3,BUKA GOTO CYBR
+2026-11-12,event,abnormal_return_pp,120,-1.9559756117,screened,EMTK,3,BUKA GOTO CYBR
+2026-11-12,event,abnormal_turnover_bp,120,-30.7842620095,screened,EMTK,3,BUKA GOTO CYBR
+2026-11-12,event,net_foreign_deviation_bp,120,10.2853274272,screened,EMTK,3,BUKA GOTO CYBR
+2026-11-13,event,abnormal_return_pp,120,-1.4186048928,screened,EMTK,3,BUKA GOTO CYBR
+2026-11-13,event,abnormal_turnover_bp,120,-1.8473027607,screened,EMTK,3,BUKA GOTO CYBR
+2026-11-13,event,net_foreign_deviation_bp,120,-0.0402999134,screened,EMTK,3,BUKA GOTO CYBR
+2026-11-11,event,abnormal_return_pp,120,1.6349150312,screened,JSMR,1,IPCC
+2026-11-11,event,abnormal_turnover_bp,120,-4.7981684875,screened,JSMR,1,IPCC
+2026-11-11,event,net_foreign_deviation_bp,120,3.2120621638,screened,JSMR,1,IPCC
+2026-11-12,event,abnormal_return_pp,120,-2.3477797488,screened,JSMR,1,IPCC
+2026-11-12,event,abnormal_turnover_bp,120,-0.7377704867,screened,JSMR,1,IPCC
+2026-11-12,event,net_foreign_deviation_bp,120,-4.3354276375,screened,JSMR,1,IPCC
+2026-11-13,event,abnormal_return_pp,120,-2.2889257167,screened,JSMR,1,IPCC
+2026-11-13,event,abnormal_turnover_bp,120,2.2598849824,screened,JSMR,1,IPCC
+2026-11-13,event,net_foreign_deviation_bp,120,-2.5984033752,screened,JSMR,1,IPCC
+2026-11-11,event,abnormal_return_pp,120,-0.7464322886,screened,MTEL,2,ISAT TOWR
+2026-11-11,event,abnormal_turnover_bp,120,0.4321515005,screened,MTEL,2,ISAT TOWR
+2026-11-11,event,net_foreign_deviation_bp,120,-0.7092072106,screened,MTEL,2,ISAT TOWR
+2026-11-12,event,abnormal_return_pp,120,-6.2917814596,screened,MTEL,2,ISAT TOWR
+2026-11-12,event,abnormal_turnover_bp,120,1.7395708181,screened,MTEL,2,ISAT TOWR
+2026-11-12,event,net_foreign_deviation_bp,120,-2.6037120791,screened,MTEL,2,ISAT TOWR
+2026-11-13,event,abnormal_return_pp,120,4.1668467229,screened,MTEL,2,ISAT TOWR
+2026-11-13,event,abnormal_turnover_bp,120,-3.7169182548,screened,MTEL,2,ISAT TOWR
+2026-11-13,event,net_foreign_deviation_bp,120,2.0050023709,screened,MTEL,2,ISAT TOWR
+2026-11-11,event,abnormal_return_pp,120,-5.4727608804,screened,WIFI,3,BUKA PGJO CYBR
+2026-11-11,event,abnormal_turnover_bp,120,31.2253475114,screened,WIFI,3,BUKA PGJO CYBR
+2026-11-11,event,net_foreign_deviation_bp,120,-6.3567902666,screened,WIFI,3,BUKA PGJO CYBR
+2026-11-12,event,abnormal_return_pp,120,-8.8406707013,screened,WIFI,3,BUKA PGJO CYBR
+2026-11-12,event,abnormal_turnover_bp,120,209.5360742306,screened,WIFI,3,BUKA PGJO CYBR
+2026-11-12,event,net_foreign_deviation_bp,120,23.2873430563,screened,WIFI,3,BUKA PGJO CYBR
+2026-11-13,event,abnormal_return_pp,120,15.2629182637,screened,WIFI,3,BUKA PGJO CYBR
+2026-11-13,event,abnormal_turnover_bp,120,291.3430594147,screened,WIFI,3,BUKA PGJO CYBR
+2026-11-13,event,net_foreign_deviation_bp,120,23.8028663538,screened,WIFI,3,BUKA PGJO CYBR
+2026-11-11,event,abnormal_return_pp,120,12.4378989342,screened,RAJA,1,SOCI
+2026-11-11,event,abnormal_turnover_bp,120,253.2278350015,screened,RAJA,1,SOCI
+2026-11-11,event,net_foreign_deviation_bp,120,-17.1910357846,screened,RAJA,1,SOCI
+2026-11-12,event,abnormal_return_pp,120,-0.1995786550,screened,RAJA,1,SOCI
+2026-11-12,event,abnormal_turnover_bp,120,293.2408710905,screened,RAJA,1,SOCI
+2026-11-12,event,net_foreign_deviation_bp,120,-46.7680756749,screened,RAJA,1,SOCI
+2026-11-13,event,abnormal_return_pp,120,-6.8932036409,screened,RAJA,1,SOCI
+2026-11-13,event,abnormal_turnover_bp,120,24.6864334626,screened,RAJA,1,SOCI
+2026-11-13,event,net_foreign_deviation_bp,120,-8.2405488177,screened,RAJA,1,SOCI
+2026-11-11,event,abnormal_return_pp,120,-4.6281499508,initial,BRPT,3,TPIA ESSA EMAS
+2026-11-11,event,abnormal_turnover_bp,120,20.3779738914,initial,BRPT,3,TPIA ESSA EMAS
+2026-11-11,event,net_foreign_deviation_bp,120,-6.3426663558,initial,BRPT,3,TPIA ESSA EMAS
+2026-11-12,event,abnormal_return_pp,120,-5.5396103399,initial,BRPT,3,TPIA ESSA EMAS
+2026-11-12,event,abnormal_turnover_bp,120,41.0563896375,initial,BRPT,3,TPIA ESSA EMAS
+2026-11-12,event,net_foreign_deviation_bp,120,-5.3463765141,initial,BRPT,3,TPIA ESSA EMAS
+2026-11-13,event,abnormal_return_pp,120,0.2444192768,initial,BRPT,3,TPIA ESSA EMAS
+2026-11-13,event,abnormal_turnover_bp,120,25.5277195265,initial,BRPT,3,TPIA ESSA EMAS
+2026-11-13,event,net_foreign_deviation_bp,120,-18.2330092775,initial,BRPT,3,TPIA ESSA EMAS
+2026-11-11,event,abnormal_return_pp,120,0.0564731307,initial,BRMS,3,MDKA INCO EMAS
+2026-11-11,event,abnormal_turnover_bp,120,17.1021305372,initial,BRMS,3,MDKA INCO EMAS
+2026-11-11,event,net_foreign_deviation_bp,120,4.1684745615,initial,BRMS,3,MDKA INCO EMAS
+2026-11-12,event,abnormal_return_pp,120,-1.2985322312,initial,BRMS,3,MDKA INCO EMAS
+2026-11-12,event,abnormal_turnover_bp,120,61.0332346249,initial,BRMS,3,MDKA INCO EMAS
+2026-11-12,event,net_foreign_deviation_bp,120,-8.9367369423,initial,BRMS,3,MDKA INCO EMAS
+2026-11-13,event,abnormal_return_pp,120,13.2110284293,initial,BRMS,3,MDKA INCO EMAS
+2026-11-13,event,abnormal_turnover_bp,120,82.6403430684,initial,BRMS,3,MDKA INCO EMAS
+2026-11-13,event,net_foreign_deviation_bp,120,7.4950408999,initial,BRMS,3,MDKA INCO EMAS
+2026-11-11,event,abnormal_return_pp,120,-2.2345235205,initial,AVIA,3,AGII UNIC SAMF
+2026-11-11,event,abnormal_turnover_bp,120,11.5377309860,initial,AVIA,3,AGII UNIC SAMF
+2026-11-11,event,net_foreign_deviation_bp,120,0.0895556974,initial,AVIA,3,AGII UNIC SAMF
+2026-11-12,event,abnormal_return_pp,120,1.2792603670,initial,AVIA,3,AGII UNIC SAMF
+2026-11-12,event,abnormal_turnover_bp,120,2.8930312983,initial,AVIA,3,AGII UNIC SAMF
+2026-11-12,event,net_foreign_deviation_bp,120,0.6806981306,initial,AVIA,3,AGII UNIC SAMF
+2026-11-13,event,abnormal_return_pp,120,1.7781974222,initial,AVIA,3,AGII UNIC SAMF
+2026-11-13,event,abnormal_turnover_bp,120,2.5349431787,initial,AVIA,3,AGII UNIC SAMF
+2026-11-13,event,net_foreign_deviation_bp,120,0.5863195389,initial,AVIA,3,AGII UNIC SAMF
+2026-11-11,event,abnormal_return_pp,120,-0.4827853379,initial,CTRA,3,BSDE PWON BKSL
+2026-11-11,event,abnormal_turnover_bp,120,0.1134947575,initial,CTRA,3,BSDE PWON BKSL
+2026-11-11,event,net_foreign_deviation_bp,120,0.7313252845,initial,CTRA,3,BSDE PWON BKSL
+2026-11-12,event,abnormal_return_pp,120,-3.7742959537,initial,CTRA,3,BSDE PWON BKSL
+2026-11-12,event,abnormal_turnover_bp,120,-3.1148758532,initial,CTRA,3,BSDE PWON BKSL
+2026-11-12,event,net_foreign_deviation_bp,120,-2.4066126517,initial,CTRA,3,BSDE PWON BKSL
+2026-11-13,event,abnormal_return_pp,120,0.7426705104,initial,CTRA,3,BSDE PWON BKSL
+2026-11-13,event,abnormal_turnover_bp,120,5.0919185276,initial,CTRA,3,BSDE PWON BKSL
+2026-11-13,event,net_foreign_deviation_bp,120,4.9899144201,initial,CTRA,3,BSDE PWON BKSL
+2026-11-11,event,abnormal_return_pp,120,-1.3523330259,initial,EMTK,3,BUKA GOTO BELI
+2026-11-11,event,abnormal_turnover_bp,120,-24.7978499007,initial,EMTK,3,BUKA GOTO BELI
+2026-11-11,event,net_foreign_deviation_bp,120,-0.5796580030,initial,EMTK,3,BUKA GOTO BELI
+2026-11-12,event,abnormal_return_pp,120,-0.8391922475,initial,EMTK,3,BUKA GOTO BELI
+2026-11-12,event,abnormal_turnover_bp,120,-33.6657752550,initial,EMTK,3,BUKA GOTO BELI
+2026-11-12,event,net_foreign_deviation_bp,120,10.3323440495,initial,EMTK,3,BUKA GOTO BELI
+2026-11-13,event,abnormal_return_pp,120,-5.6866694964,initial,EMTK,3,BUKA GOTO BELI
+2026-11-13,event,abnormal_turnover_bp,120,-5.2825575321,initial,EMTK,3,BUKA GOTO BELI
+2026-11-13,event,net_foreign_deviation_bp,120,0.3535028809,initial,EMTK,3,BUKA GOTO BELI
+2026-11-11,event,abnormal_return_pp,120,-0.8980254880,initial,JSMR,3,GMFI CASS IPCC
+2026-11-11,event,abnormal_turnover_bp,120,-4.8117554705,initial,JSMR,3,GMFI CASS IPCC
+2026-11-11,event,net_foreign_deviation_bp,120,1.5825551518,initial,JSMR,3,GMFI CASS IPCC
+2026-11-12,event,abnormal_return_pp,120,-4.3015223990,initial,JSMR,3,GMFI CASS IPCC
+2026-11-12,event,abnormal_turnover_bp,120,-1.0096260799,initial,JSMR,3,GMFI CASS IPCC
+2026-11-12,event,net_foreign_deviation_bp,120,-1.1628576564,initial,JSMR,3,GMFI CASS IPCC
+2026-11-13,event,abnormal_return_pp,120,-1.6241695470,initial,JSMR,3,GMFI CASS IPCC
+2026-11-13,event,abnormal_turnover_bp,120,1.5462475815,initial,JSMR,3,GMFI CASS IPCC
+2026-11-13,event,net_foreign_deviation_bp,120,1.0654359383,initial,JSMR,3,GMFI CASS IPCC
+2026-11-11,event,abnormal_return_pp,120,-0.9528431773,initial,MTEL,3,EXCL ISAT TOWR
+2026-11-11,event,abnormal_turnover_bp,120,-0.3106196329,initial,MTEL,3,EXCL ISAT TOWR
+2026-11-11,event,net_foreign_deviation_bp,120,-0.8463781535,initial,MTEL,3,EXCL ISAT TOWR
+2026-11-12,event,abnormal_return_pp,120,-4.2921155141,initial,MTEL,3,EXCL ISAT TOWR
+2026-11-12,event,abnormal_turnover_bp,120,-5.8737917376,initial,MTEL,3,EXCL ISAT TOWR
+2026-11-12,event,net_foreign_deviation_bp,120,-3.7949798540,initial,MTEL,3,EXCL ISAT TOWR
+2026-11-13,event,abnormal_return_pp,120,4.5175024556,initial,MTEL,3,EXCL ISAT TOWR
+2026-11-13,event,abnormal_turnover_bp,120,-8.2014075886,initial,MTEL,3,EXCL ISAT TOWR
+2026-11-13,event,net_foreign_deviation_bp,120,-1.9024397520,initial,MTEL,3,EXCL ISAT TOWR
+2026-11-11,event,abnormal_return_pp,120,6.3121689881,initial,RAJA,3,RATU ENRG MEDC
+2026-11-11,event,abnormal_turnover_bp,120,179.8366399969,initial,RAJA,3,RATU ENRG MEDC
+2026-11-11,event,net_foreign_deviation_bp,120,-12.0128035109,initial,RAJA,3,RATU ENRG MEDC
+2026-11-12,event,abnormal_return_pp,120,-3.0744525606,initial,RAJA,3,RATU ENRG MEDC
+2026-11-12,event,abnormal_turnover_bp,120,259.3688039106,initial,RAJA,3,RATU ENRG MEDC
+2026-11-12,event,net_foreign_deviation_bp,120,-40.1475049695,initial,RAJA,3,RATU ENRG MEDC
+2026-11-13,event,abnormal_return_pp,120,-4.6896044841,initial,RAJA,3,RATU ENRG MEDC
+2026-11-13,event,abnormal_turnover_bp,120,20.3394575732,initial,RAJA,3,RATU ENRG MEDC
+2026-11-13,event,net_foreign_deviation_bp,120,-4.3645236364,initial,RAJA,3,RATU ENRG MEDC
+2026-11-11,event,abnormal_return_pp,120,-5.4727608804,initial,WIFI,3,BUKA PGJO CYBR
+2026-11-11,event,abnormal_turnover_bp,120,31.2253475114,initial,WIFI,3,BUKA PGJO CYBR
+2026-11-11,event,net_foreign_deviation_bp,120,-6.3567902666,initial,WIFI,3,BUKA PGJO CYBR
+2026-11-12,event,abnormal_return_pp,120,-8.8406707013,initial,WIFI,3,BUKA PGJO CYBR
+2026-11-12,event,abnormal_turnover_bp,120,209.5360742306,initial,WIFI,3,BUKA PGJO CYBR
+2026-11-12,event,net_foreign_deviation_bp,120,23.2873430563,initial,WIFI,3,BUKA PGJO CYBR
+2026-11-13,event,abnormal_return_pp,120,15.2629182637,initial,WIFI,3,BUKA PGJO CYBR
+2026-11-13,event,abnormal_turnover_bp,120,291.3430594147,initial,WIFI,3,BUKA PGJO CYBR
+2026-11-13,event,net_foreign_deviation_bp,120,23.8028663538,initial,WIFI,3,BUKA PGJO CYBR
+2026-11-11,event,abnormal_return_pp,120,-4.0532112888,exclude_may_aug,BRPT,3,EMAS MDKA INCO
+2026-11-11,event,abnormal_turnover_bp,120,12.0441711141,exclude_may_aug,BRPT,3,EMAS MDKA INCO
+2026-11-11,event,net_foreign_deviation_bp,120,-5.3009744579,exclude_may_aug,BRPT,3,EMAS MDKA INCO
+2026-11-12,event,abnormal_return_pp,120,-4.3017367596,exclude_may_aug,BRPT,3,EMAS MDKA INCO
+2026-11-12,event,abnormal_turnover_bp,120,37.1904728258,exclude_may_aug,BRPT,3,EMAS MDKA INCO
+2026-11-12,event,net_foreign_deviation_bp,120,-2.4554354387,exclude_may_aug,BRPT,3,EMAS MDKA INCO
+2026-11-13,event,abnormal_return_pp,120,4.2814049303,exclude_may_aug,BRPT,3,EMAS MDKA INCO
+2026-11-13,event,abnormal_turnover_bp,120,47.3049389878,exclude_may_aug,BRPT,3,EMAS MDKA INCO
+2026-11-13,event,net_foreign_deviation_bp,120,-4.4413545976,exclude_may_aug,BRPT,3,EMAS MDKA INCO
+2026-11-11,event,abnormal_return_pp,120,0.0564731307,exclude_may_aug,BRMS,3,MDKA EMAS INCO
+2026-11-11,event,abnormal_turnover_bp,120,17.1021305372,exclude_may_aug,BRMS,3,MDKA EMAS INCO
+2026-11-11,event,net_foreign_deviation_bp,120,4.1684745615,exclude_may_aug,BRMS,3,MDKA EMAS INCO
+2026-11-12,event,abnormal_return_pp,120,-1.2985322312,exclude_may_aug,BRMS,3,MDKA EMAS INCO
+2026-11-12,event,abnormal_turnover_bp,120,61.0332346249,exclude_may_aug,BRMS,3,MDKA EMAS INCO
+2026-11-12,event,net_foreign_deviation_bp,120,-8.9367369423,exclude_may_aug,BRMS,3,MDKA EMAS INCO
+2026-11-13,event,abnormal_return_pp,120,13.2110284293,exclude_may_aug,BRMS,3,MDKA EMAS INCO
+2026-11-13,event,abnormal_turnover_bp,120,82.6403430684,exclude_may_aug,BRMS,3,MDKA EMAS INCO
+2026-11-13,event,net_foreign_deviation_bp,120,7.4950408999,exclude_may_aug,BRMS,3,MDKA EMAS INCO
+2026-11-11,event,abnormal_return_pp,120,-2.2345235205,exclude_may_aug,AVIA,3,AGII UNIC SAMF
+2026-11-11,event,abnormal_turnover_bp,120,11.5377309860,exclude_may_aug,AVIA,3,AGII UNIC SAMF
+2026-11-11,event,net_foreign_deviation_bp,120,0.0895556974,exclude_may_aug,AVIA,3,AGII UNIC SAMF
+2026-11-12,event,abnormal_return_pp,120,1.2792603670,exclude_may_aug,AVIA,3,AGII UNIC SAMF
+2026-11-12,event,abnormal_turnover_bp,120,2.8930312983,exclude_may_aug,AVIA,3,AGII UNIC SAMF
+2026-11-12,event,net_foreign_deviation_bp,120,0.6806981306,exclude_may_aug,AVIA,3,AGII UNIC SAMF
+2026-11-13,event,abnormal_return_pp,120,1.7781974222,exclude_may_aug,AVIA,3,AGII UNIC SAMF
+2026-11-13,event,abnormal_turnover_bp,120,2.5349431787,exclude_may_aug,AVIA,3,AGII UNIC SAMF
+2026-11-13,event,net_foreign_deviation_bp,120,0.5863195389,exclude_may_aug,AVIA,3,AGII UNIC SAMF
+2026-11-11,event,abnormal_return_pp,120,-1.1893966992,exclude_may_aug,CTRA,3,PWON BKSL CBDK
+2026-11-11,event,abnormal_turnover_bp,120,-0.4765867949,exclude_may_aug,CTRA,3,PWON BKSL CBDK
+2026-11-11,event,net_foreign_deviation_bp,120,0.5777264591,exclude_may_aug,CTRA,3,PWON BKSL CBDK
+2026-11-12,event,abnormal_return_pp,120,-2.5886208660,exclude_may_aug,CTRA,3,PWON BKSL CBDK
+2026-11-12,event,abnormal_turnover_bp,120,-3.0010278569,exclude_may_aug,CTRA,3,PWON BKSL CBDK
+2026-11-12,event,net_foreign_deviation_bp,120,-2.3013119491,exclude_may_aug,CTRA,3,PWON BKSL CBDK
+2026-11-13,event,abnormal_return_pp,120,1.4324129064,exclude_may_aug,CTRA,3,PWON BKSL CBDK
+2026-11-13,event,abnormal_turnover_bp,120,4.1050883585,exclude_may_aug,CTRA,3,PWON BKSL CBDK
+2026-11-13,event,net_foreign_deviation_bp,120,5.5812248787,exclude_may_aug,CTRA,3,PWON BKSL CBDK
+2026-11-11,event,abnormal_return_pp,120,-1.3965514286,exclude_may_aug,EMTK,3,BELI MLPT CYBR
+2026-11-11,event,abnormal_turnover_bp,120,5.4188672104,exclude_may_aug,EMTK,3,BELI MLPT CYBR
+2026-11-11,event,net_foreign_deviation_bp,120,-1.0404976301,exclude_may_aug,EMTK,3,BELI MLPT CYBR
+2026-11-12,event,abnormal_return_pp,120,0.5755372573,exclude_may_aug,EMTK,3,BELI MLPT CYBR
+2026-11-12,event,abnormal_turnover_bp,120,8.4123440252,exclude_may_aug,EMTK,3,BELI MLPT CYBR
+2026-11-12,event,net_foreign_deviation_bp,120,0.8899449612,exclude_may_aug,EMTK,3,BELI MLPT CYBR
+2026-11-13,event,abnormal_return_pp,120,-3.7681634703,exclude_may_aug,EMTK,3,BELI MLPT CYBR
+2026-11-13,event,abnormal_turnover_bp,120,4.4794562847,exclude_may_aug,EMTK,3,BELI MLPT CYBR
+2026-11-13,event,net_foreign_deviation_bp,120,-0.4327558394,exclude_may_aug,EMTK,3,BELI MLPT CYBR
+2026-11-11,event,abnormal_return_pp,120,-1.0122390973,exclude_may_aug,JSMR,3,GMFI CASS CMNP
+2026-11-11,event,abnormal_turnover_bp,120,-3.9535572667,exclude_may_aug,JSMR,3,GMFI CASS CMNP
+2026-11-11,event,net_foreign_deviation_bp,120,0.8093192507,exclude_may_aug,JSMR,3,GMFI CASS CMNP
+2026-11-12,event,abnormal_return_pp,120,-4.2676647470,exclude_may_aug,JSMR,3,GMFI CASS CMNP
+2026-11-12,event,abnormal_turnover_bp,120,0.0791588605,exclude_may_aug,JSMR,3,GMFI CASS CMNP
+2026-11-12,event,net_foreign_deviation_bp,120,0.1125412743,exclude_may_aug,JSMR,3,GMFI CASS CMNP
+2026-11-13,event,abnormal_return_pp,120,-1.6661664714,exclude_may_aug,JSMR,3,GMFI CASS CMNP
+2026-11-13,event,abnormal_turnover_bp,120,2.7446412889,exclude_may_aug,JSMR,3,GMFI CASS CMNP
+2026-11-13,event,net_foreign_deviation_bp,120,1.9383438733,exclude_may_aug,JSMR,3,GMFI CASS CMNP
+2026-11-11,event,abnormal_return_pp,120,-0.9528431773,exclude_may_aug,MTEL,3,EXCL ISAT TOWR
+2026-11-11,event,abnormal_turnover_bp,120,-0.3106196329,exclude_may_aug,MTEL,3,EXCL ISAT TOWR
+2026-11-11,event,net_foreign_deviation_bp,120,-0.8463781535,exclude_may_aug,MTEL,3,EXCL ISAT TOWR
+2026-11-12,event,abnormal_return_pp,120,-4.2921155141,exclude_may_aug,MTEL,3,EXCL ISAT TOWR
+2026-11-12,event,abnormal_turnover_bp,120,-5.8737917376,exclude_may_aug,MTEL,3,EXCL ISAT TOWR
+2026-11-12,event,net_foreign_deviation_bp,120,-3.7949798540,exclude_may_aug,MTEL,3,EXCL ISAT TOWR
+2026-11-13,event,abnormal_return_pp,120,4.5175024556,exclude_may_aug,MTEL,3,EXCL ISAT TOWR
+2026-11-13,event,abnormal_turnover_bp,120,-8.2014075886,exclude_may_aug,MTEL,3,EXCL ISAT TOWR
+2026-11-13,event,net_foreign_deviation_bp,120,-1.9024397520,exclude_may_aug,MTEL,3,EXCL ISAT TOWR
+2026-11-11,event,abnormal_return_pp,120,7.9812639938,exclude_may_aug,RAJA,3,ENRG MEDC SOCI
+2026-11-11,event,abnormal_turnover_bp,120,251.0641551573,exclude_may_aug,RAJA,3,ENRG MEDC SOCI
+2026-11-11,event,net_foreign_deviation_bp,120,-20.3063391693,exclude_may_aug,RAJA,3,ENRG MEDC SOCI
+2026-11-12,event,abnormal_return_pp,120,-2.0548621523,exclude_may_aug,RAJA,3,ENRG MEDC SOCI
+2026-11-12,event,abnormal_turnover_bp,120,283.7707341669,exclude_may_aug,RAJA,3,ENRG MEDC SOCI
+2026-11-12,event,net_foreign_deviation_bp,120,-43.2009336013,exclude_may_aug,RAJA,3,ENRG MEDC SOCI
+2026-11-13,event,abnormal_return_pp,120,-6.8106559998,exclude_may_aug,RAJA,3,ENRG MEDC SOCI
+2026-11-13,event,abnormal_turnover_bp,120,21.5158458807,exclude_may_aug,RAJA,3,ENRG MEDC SOCI
+2026-11-13,event,net_foreign_deviation_bp,120,-6.4995926689,exclude_may_aug,RAJA,3,ENRG MEDC SOCI
+2026-11-11,event,abnormal_return_pp,120,-5.5973730716,exclude_may_aug,WIFI,3,CYBR IRSX WIRG
+2026-11-11,event,abnormal_turnover_bp,120,38.5047103631,exclude_may_aug,WIFI,3,CYBR IRSX WIRG
+2026-11-11,event,net_foreign_deviation_bp,120,-7.6666520617,exclude_may_aug,WIFI,3,CYBR IRSX WIRG
+2026-11-12,event,abnormal_return_pp,120,-15.6699480108,exclude_may_aug,WIFI,3,CYBR IRSX WIRG
+2026-11-12,event,abnormal_turnover_bp,120,148.0268262978,exclude_may_aug,WIFI,3,CYBR IRSX WIRG
+2026-11-12,event,net_foreign_deviation_bp,120,26.9755852804,exclude_may_aug,WIFI,3,CYBR IRSX WIRG
+2026-11-13,event,abnormal_return_pp,120,16.1320142474,exclude_may_aug,WIFI,3,CYBR IRSX WIRG
+2026-11-13,event,abnormal_turnover_bp,120,259.1279679093,exclude_may_aug,WIFI,3,CYBR IRSX WIRG
+2026-11-13,event,net_foreign_deviation_bp,120,27.6957735968,exclude_may_aug,WIFI,3,CYBR IRSX WIRG

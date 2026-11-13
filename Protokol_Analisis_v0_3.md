@@ -1,0 +1,18 @@
+# Paper ke-4 · Analisis pengumuman MSCI November 2026
+
+**Versi 0.3 · 13 November 2026 WIB · spesifikasi pascapilot**
+
+Pilot v0.2 sudah memperlihatkan return relatif yang umumnya negatif. Protokol ini menilai ketahanan temuan tersebut. Semua hasil tetap eksploratif. Batas data adalah 13 November. Sampel mencakup sembilan saham terdampak. BRMS adalah migrasi Standard ke Small Cap. Pengumuman sebelum pembukaan 12 November adalah peristiwa utama. Tanggal 11 dan 13 November dilaporkan secara deskriptif.
+
+## Audit dan pemilihan pembanding
+
+1. Audit gabungan 31 kode pembanding dari dua daftar pra-peristiwa. Tandai keanggotaan MSCI Standard dan Small Cap yang dilaporkan bertahan, daftar HSC 11 November, pasangan satu grup yang teridentifikasi, serta perubahan harga referensi, jumlah saham tercatat, dan volume nol dalam jendela. Periksa keterbukaan publik sebagai verifikasi terbatas. Perubahan bobot MSCI, seluruh afiliasi dan keterbukaan emiten belum dapat dipastikan.
+2. Spesifikasi pembanding tersaring menggunakan urutan daftar awal v0.2 lalu daftar sensitivitas v0.2. Buang duplikasi serta calon bertanda bertahan di MSCI, HSC, afiliasi pasangan, keterbukaan peristiwa emiten yang teridentifikasi, atau anomali mekanis pada jendela. Ambil maksimal tiga kandidat per saham. Laporkan jumlah kandidat yang lolos. Pertahankan bobot sama untuk tiap saham terdampak dan donor dalam pasangannya. MEDC dan WIRG memiliki peristiwa yang teridentifikasi. MEDC sudah tersaring karena status MSCI dan WIRG berada di luar tiga kandidat teratas yang lolos.
+3. Laporkan pembanding awal, pembanding yang mengecualikan perubahan Mei dan Agustus, pembanding tersaring, dan hasil tanpa BRMS atau MTEL. Laporkan juga median, jumlah tanda negatif, dan leave-one-out. Gunakan pola return historis, selisih fitur matching, dan jumlah donor untuk menjelaskan kualitas pembanding.
+
+## Estimasi dan inferensi
+
+- Gunakan 120 sesi dari 17 April sampai 14 Oktober. Return harga memakai penutupan dibanding harga referensi BEI, dengan ekspektasi dari model pasar OLS per saham terhadap IHSG. Return abnormal relatif mengurangi rata-rata residual donor. Turnover dan transaksi asing neto dinormalisasi terhadap saham tercatat, dipusatkan pada median historis masing-masing saham, lalu dikurangi rata-rata deviasi donor. Laporkan nilai dalam poin persentase dan basis poin saham tercatat.
+- Pada 120 tanggal placebo, gunakan tanggal yang sama untuk semua saham dan donor. Bagi periode historis menjadi enam blok berurutan berisi 20 sesi. Setiap blok dievaluasi dengan model dan median yang dihitung dari 100 sesi di luar blok itu. Peristiwa aktual memakai model yang dilatih pada 120 sesi. Gunakan nilai absolut dan peringkat ekor empiris (1 + hitungan placebo setidaknya seekstrem observasi) / (1 + jumlah placebo). Bandingkan distribusi historis sebagai diagnostik, karena tanggal berdekatan dapat saling bergantung, rezim volatilitas dapat berbeda, dan periode pelatihan aktual dan placebo tidak sama.
+- Laporkan kuantil 2,5% dan 97,5% sebagai rentang referensi placebo. Sajikan sensitivitas yang membuang dari kumpulan placebo tanggal pengumuman dan penutupan review Mei/Agustus (13 dan 29 Mei, 13 dan 31 Agustus) serta pembaruan klasifikasi Juni pada 24 Juni WIB. Model historis tetap memakai seluruh tanggal pelatihan yang sesuai blok.
+- Return adalah outcome utama dalam spesifikasi pascapilot. Turnover dan transaksi asing bersifat pendukung. Berita pengunduran diri Wapres, pengumuman HSC yang berdekatan, kemungkinan antisipasi, dan korelasi lintas saham membatasi interpretasi. Hasilnya merupakan reaksi relatif di sekitar pengumuman. Data agregat asing tidak mengidentifikasi jenis pengelola investasi.
